@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Allow: /
+Sitemap: https://luis130798.github.io/biografia/sitemap.xml
